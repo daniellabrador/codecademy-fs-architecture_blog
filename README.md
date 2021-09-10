@@ -28,7 +28,7 @@ If you want your final product to match ours exactly, follow the steps below ver
 
 ## Setup
 
-To view the final output, click [here](https://daniellabrador.github.io/codecademy-architecture_blog/).
+To view the final output, click [here](https://daniellabrador.github.io/codecademy-fs-architecture_blog/).
 
 ## Sources
 
